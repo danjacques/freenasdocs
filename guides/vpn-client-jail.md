@@ -7,8 +7,6 @@ It includes:
 - Kill Switch
 - A `transmission` Client
 
-[[TOC]]
-
 ## Overview
 
 A BSD jail gets its own network stack, making it an ideal lightweight option to
