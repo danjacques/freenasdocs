@@ -14,6 +14,7 @@ The current documentation targets:
 
 ## Table of Contents
 
+* [SSH and Tunnels as "VPN Lite"](/guides/ssh-tunnels.md)
 * [OpenVPN Client Jail w/ Downloader and Proxy](/guides/vpn-client-jail.md)
 
 ## About
