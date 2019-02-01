@@ -119,7 +119,7 @@ Now, we will mount your `DOWNLOADS` directory into it.
 ```sh
 sudo iocage fstab \
     -a \
-    testvpn \
+    ${NAME} \
     ${DOWNLOADS} /mnt/downloads nullfs rw 0 0
 ```
 
